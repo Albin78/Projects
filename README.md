@@ -1,7 +1,7 @@
 # Data Proffesional Survey Analysis
 This project contains a power bi  file that demonstartes data analysis on true responses of Data profesionals(salary satisfaction, work-life balance, the programming language used, thde role they are working in)
 #Files included
-- `Project_power_bi.pbix` - Main Power bi file conatins data analysis
+- `Project_power_Bi.pbix` - Main Power bi file conatins data analysis
 - `README.md` - Project Documentation
 - `Final Project.xlsx` -Dataset to clean
 #Features
