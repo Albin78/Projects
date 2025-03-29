@@ -7,12 +7,14 @@ This project contains a power bi  file that demonstartes data analysis on true r
 #Features
 
 - Cleaned and organised dataset
-- Car representing number of survey responses and average of age of responsers
+- 2 Cards representing number of survey responses and average of age of responsers
 - 2 Guage representing work-life balance and salary satisfaction of responsers
 - Stacked bar chart represents Average of salary according to roles
 - Donut Chart representing difficulty of the responsers in data analaysis
 - Treemap showing average of salary according to country
 - Stacked column chart showing the distribution of programming language liked by the responsers
+- ![PB_Project png](https://github.com/user-attachments/assets/8b933b26-c7e8-43f8-b769-0a1cac9c2f46)
+
 
   # How to Use
 
